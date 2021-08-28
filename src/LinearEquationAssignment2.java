@@ -23,7 +23,7 @@ public class LinearEquationAssignment2 {
     double b = 0;
     
     System.out.println("");
-    // recording input of both cordinates
+    // recording input of both coordinates
     System.out.println("Recording Point P: ");
     System.out.print("Enter x1-Value: ");
     x1 = input.nextDouble();
