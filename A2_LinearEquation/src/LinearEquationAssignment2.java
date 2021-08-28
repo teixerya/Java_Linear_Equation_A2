@@ -2,7 +2,7 @@
 Assignment 2
 Program: Computer System Technology - Information Systems Engineering
 
-Calculates the slope, mid-point, distance between chosen points P and Q,
+Calculates the slope, mid-point, distance between user chosen points P and Q,
   and outputs the linear equation of the graph.*/
 
 
